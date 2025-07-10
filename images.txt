@@ -5,6 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.19
+python:3.13-slim
 mysql:oraclelinux9
 mysql:8.0
 wordpress:latest
